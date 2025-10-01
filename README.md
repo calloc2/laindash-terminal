@@ -1,5 +1,7 @@
 # laindash-terminal
 This is an adapted version of the "Lain Dash" theme from VS Code for Windows Terminal.
+<img width="945" height="431" alt="image" src="https://github.com/user-attachments/assets/377f7151-bb8b-42bc-9810-8c866c29ef2a" />
+
 
 ## Installation
 
